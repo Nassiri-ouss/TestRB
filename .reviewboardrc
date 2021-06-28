@@ -1,5 +1,5 @@
 REVIEWBOARD_URL = "localhost:8585"
-REPOSITORY = "github"
+REPOSITORY = "testRB"
 REPOSITORY_TYPE = "git"
 BRANCH = "master"
 LAND_DEST_BRANCH = "master"
